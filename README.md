@@ -6,8 +6,13 @@ I have extensive leadership experience and I love to learn.
 In my free time I like to travel and read.
 Take a look at my protolio and contact me with any questions. 
 
-Here is a link to the website: 
-Here is a screen shot of my Protfolio 
+Here is a link to the website:
+
+ https://ortalwikoff.github.io/Ortal-s-Protfolio/
+ 
+ 
+ 
+Here is a screen shot of my Protfolio:  
 
 
 
