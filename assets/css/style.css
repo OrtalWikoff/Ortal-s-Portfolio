@@ -67,25 +67,24 @@ flex-direction: column;
 
 #projectBox1{
     display: flex;
-    justify-content: center;
     flex-direction: row; 
-    margin: 40px;
-    background-image: url("./img/Screen\ Shot\ 2022-08-20\ at\ 9.11.23\ PM.png");
+    color:white; 
+    margin: 20px;
     border: 5px solid #ccc;
     box-shadow: 2px 2px 6px 0px  rgba(247, 242, 242, 0.3);
     background-color: rgb(7, 5, 2);
     width: 70%;
+    height: 30%;
   }
   #projectBox2{
     display: flex;
-    justify-content: center;
     flex-direction: row; 
-    margin: 40px;
-    background-image: url("./img/Screen\ Shot\ 2022-08-20\ at\ 9.09.52\ PM.png");
+    margin: 20px;
     border: 5px solid #ccc;
     box-shadow: 2px 2px 6px 0px  rgba(247, 242, 242, 0.3);
     background-color: rgb(7, 5, 2);
     width: 70%;
+    height: 30%;
   }
   #projectBox3{
     display: flex;
@@ -96,8 +95,8 @@ flex-direction: column;
     box-shadow: 2px 2px 6px 0px  rgba(247, 242, 242, 0.3);
     background-color: rgb(7, 5, 2);
     width: 70%;
+
   }
-  
   #projectBox4 {
     display: flex;
     justify-content: center;
@@ -150,4 +149,9 @@ flex-direction: column;
 display: flex;
 flex-direction: row;
 }
+}
+
+#projectsImg{
+    margin-left: auto;
+    display: block;    
 }
