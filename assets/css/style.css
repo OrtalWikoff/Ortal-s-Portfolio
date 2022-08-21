@@ -151,7 +151,7 @@ flex-direction: row;
 }
 }
 
-#projectsImg{
+.projectsImg{
     margin-left: auto;
     display: block;    
 }
