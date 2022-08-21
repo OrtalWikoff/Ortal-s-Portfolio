@@ -65,18 +65,49 @@ flex-direction: column;
     padding-top: 2%;
 }
 
-#projectBox1, #projectBox2, #projectBox3, #projectBox4  {
+#projectBox1{
     display: flex;
     justify-content: center;
     flex-direction: row; 
-    margin: 8px;
+    margin: 40px;
+    background-image: url("./img/Screen\ Shot\ 2022-08-20\ at\ 9.11.23\ PM.png");
     border: 5px solid #ccc;
     box-shadow: 2px 2px 6px 0px  rgba(247, 242, 242, 0.3);
     background-color: rgb(7, 5, 2);
     width: 70%;
-    
-
   }
+  #projectBox2{
+    display: flex;
+    justify-content: center;
+    flex-direction: row; 
+    margin: 40px;
+    background-image: url("./img/Screen\ Shot\ 2022-08-20\ at\ 9.09.52\ PM.png");
+    border: 5px solid #ccc;
+    box-shadow: 2px 2px 6px 0px  rgba(247, 242, 242, 0.3);
+    background-color: rgb(7, 5, 2);
+    width: 70%;
+  }
+  #projectBox3{
+    display: flex;
+    justify-content: center;
+    flex-direction: row; 
+    margin: 20px;
+    border: 5px solid #ccc;
+    box-shadow: 2px 2px 6px 0px  rgba(247, 242, 242, 0.3);
+    background-color: rgb(7, 5, 2);
+    width: 70%;
+  }
+  
+  #projectBox4 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row; 
+    margin: 20px;
+    border: 5px solid #ccc;
+    box-shadow: 2px 2px 6px 0px  rgba(247, 242, 242, 0.3);
+    background-color: rgb(7, 5, 2);
+    width: 70%;
+  } 
 
 #MyProjects {
     background-image: url(./img/MyWork.jpg);
