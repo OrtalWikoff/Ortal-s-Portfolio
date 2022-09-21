@@ -1,4 +1,4 @@
-# Ortal-s-Protfolio
+# My Portfolio
 
 My name is Ortal Wikoff. 
 I am a creative and hard worker web developer based in Atlanta, Georgia.
